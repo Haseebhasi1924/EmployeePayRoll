@@ -56,9 +56,7 @@ src/
 │   │   ├── css/
 │   │   │   ├── admin.css
 │   │   │   └── login.css
-│   │   ├── js/
-│   │   │   └── script.js
-│   │   ├── images/
+│   │   
 │   │   ├── admin.jsp
 │   │   ├── login.jsp
 │   │   ├── updateUser.jsp
@@ -68,9 +66,16 @@ src/
 │       └── db.properties
 │
 ├── test/
+
+
 │   └── java/
 │       └── com/tap/
 │           ├── dao/
 │           │   └── EmployeeDAOTest.java
 │           └── servlets/
 │               └── LoginServletTest.java
+![Screenshot 2025-03-24 180511](https://github.com/user-attachments/assets/9d60afd5-7c16-45d2-b4b0-7183093da19b)
+
+
+
+
