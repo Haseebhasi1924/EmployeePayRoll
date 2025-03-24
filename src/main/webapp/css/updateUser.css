@@ -1,0 +1,56 @@
+/* Custom CSS for Update User */
+.form-container {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #fff;
+    border-radius: 10px;
+}
+
+.employee-details {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.employee-details p {
+    font-size: 1.1rem;
+    margin-bottom: 0.75rem;
+}
+
+.employee-details strong {
+    color: #4CAF50;
+}
+
+.update-form {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.btn-success {
+    background-color: #4CAF50;
+    border: none;
+    transition: background-color 0.3s ease;
+}
+
+.btn-success:hover {
+    background-color: #45a049;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+    .form-container {
+        padding: 15px;
+    }
+
+    .employee-details p {
+        font-size: 1rem;
+    }
+
+    .btn-success {
+        width: 100%;
+        margin: 5px 0;
+    }
+}
